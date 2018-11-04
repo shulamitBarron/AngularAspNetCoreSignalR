@@ -6,9 +6,11 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\" />
-    <Folder Include="Release\**" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="Release\publish.rar"  CopyToPublishDirectory="Always"  />
+  </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNet.Mvc" Version="5.2.6" />
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0" />
