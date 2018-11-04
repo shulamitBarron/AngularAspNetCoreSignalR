@@ -14,8 +14,9 @@ namespace AngularAspNetCoreSignalR {
         // GET: api/<controller>
         [HttpGet]
         public FileResult Get () {
-            var fileName = "DeleteDoubleFiles.exe";
-            var filepath = Path.Combine (Environment.CurrentDirectory, "Release", "DeleteDoubleFiles.exe");
+            // var fileName = "DeleteDoubleFiles.exe";
+            var fileName = "publish.rar";
+            var filepath = Path.Combine (Environment.CurrentDirectory, "Release", "publish.rar");
             byte[] fileBytes = System.IO.File.ReadAllBytes(filepath);
             return File (fileBytes, "application/x-msdownload", fileName);
         }
