@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SearchDataItems>
+  <SearchData>
+    <SearchDate>29/10/2018 20:55</SearchDate>
+    <SourcePath>C:\Users\AyalaGoldberg\Desktop\Test 1</SourcePath>
+    <AgainstPath>C:\Users\AyalaGoldberg\Desktop\Test 2</AgainstPath>
+    <FileTypes>63</FileTypes>
+    <KindEquals>20</KindEquals>
+    <RangeNumber>100</RangeNumber>
+  </SearchData>
+  <SearchData>
+    <SearchDate>29/10/2018 20:56</SearchDate>
+    <SourcePath>C:\Users\AyalaGoldberg\Desktop\Test 3</SourcePath>
+    <AgainstPath>C:\Users\AyalaGoldberg\Desktop\Test 4</AgainstPath>
+    <FileTypes>63</FileTypes>
+    <KindEquals>1</KindEquals>
+    <RangeNumber>100</RangeNumber>
+  </SearchData>
+</SearchDataItems>

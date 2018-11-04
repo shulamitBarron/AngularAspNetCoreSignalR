@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SearchDataItems>
+  <SearchData>
+    <SearchDate>03/11/2018 21:08</SearchDate>
+    <SourcePath>C:\Tamar\checkingProject\cheking1</SourcePath>
+    <AgainstPath>C:\Tamar\checkingProject\cheking2</AgainstPath>
+    <FileTypes>63</FileTypes>
+    <KindEquals>28</KindEquals>
+    <RangeNumber>100</RangeNumber>
+  </SearchData>
+  <SearchData>
+    <SearchDate>03/11/2018 21:16</SearchDate>
+    <SourcePath>C:\Tamar\checkingProject\cheking1</SourcePath>
+    <AgainstPath>C:\Tamar\checkingProject\cheking2</AgainstPath>
+    <FileTypes>63</FileTypes>
+    <KindEquals>28</KindEquals>
+    <RangeNumber>100</RangeNumber>
+  </SearchData>
+</SearchDataItems>
