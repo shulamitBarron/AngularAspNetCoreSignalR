@@ -11,7 +11,6 @@ using Microsoft.AspNetCore.Mvc;
 namespace AngularAspNetCoreSignalR
 {
     [Route("api/[controller]")]
-    
     public class RunProgramController : Controller
     {
         // GET: api/<controller>
