@@ -11,6 +11,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace AngularAspNetCoreSignalR {
     [Route ("api/[controller]")]
     public class RunProgramController : Controller {
+        public static int num=7;
         // GET: api/<controller>
         [HttpGet]
         public FileResult Get () {
@@ -23,8 +24,10 @@ namespace AngularAspNetCoreSignalR {
 
         // GET api/<controller>/5
         [HttpGet ("{id}")]
-        public string Get (int id) {
-            return "value";
+        public int Get (int id) {
+            if(id==1)
+               num++;
+            return num;
         }
 
         // POST api/<controller>

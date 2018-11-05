@@ -53,3 +53,14 @@ C:\Users\barrons\Desktop\gdf\AngularAspNetCoreSignalR\obj\Debug\netcoreapp2.0\An
 C:\Users\barrons\Desktop\gdf\AngularAspNetCoreSignalR\obj\Debug\netcoreapp2.0\AngularAspNetCoreSignalR.AssemblyInfo.cs
 C:\Users\barrons\Desktop\gdf\AngularAspNetCoreSignalR\obj\Debug\netcoreapp2.0\AngularAspNetCoreSignalR.dll
 C:\Users\barrons\Desktop\gdf\AngularAspNetCoreSignalR\obj\Debug\netcoreapp2.0\AngularAspNetCoreSignalR.pdb
+C:\Users\user1\Desktop\bgfgf\dff\AngularAspNetCoreSignalR\obj\Debug\netcoreapp2.0\AngularAspNetCoreSignalR.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\bgfgf\dff\AngularAspNetCoreSignalR\obj\Debug\netcoreapp2.0\AngularAspNetCoreSignalR.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\bgfgf\dff\AngularAspNetCoreSignalR\obj\Debug\netcoreapp2.0\AngularAspNetCoreSignalR.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\bgfgf\dff\AngularAspNetCoreSignalR\obj\Debug\netcoreapp2.0\AngularAspNetCoreSignalR.AssemblyInfo.cs
+C:\Users\user1\Desktop\bgfgf\dff\AngularAspNetCoreSignalR\obj\Debug\netcoreapp2.0\AngularAspNetCoreSignalR.dll
+C:\Users\user1\Desktop\bgfgf\dff\AngularAspNetCoreSignalR\obj\Debug\netcoreapp2.0\AngularAspNetCoreSignalR.pdb
+C:\Users\user1\Desktop\bgfgf\dff\AngularAspNetCoreSignalR\bin\Debug\netcoreapp2.0\AngularAspNetCoreSignalR.deps.json
+C:\Users\user1\Desktop\bgfgf\dff\AngularAspNetCoreSignalR\bin\Debug\netcoreapp2.0\AngularAspNetCoreSignalR.runtimeconfig.json
+C:\Users\user1\Desktop\bgfgf\dff\AngularAspNetCoreSignalR\bin\Debug\netcoreapp2.0\AngularAspNetCoreSignalR.runtimeconfig.dev.json
+C:\Users\user1\Desktop\bgfgf\dff\AngularAspNetCoreSignalR\bin\Debug\netcoreapp2.0\AngularAspNetCoreSignalR.dll
+C:\Users\user1\Desktop\bgfgf\dff\AngularAspNetCoreSignalR\bin\Debug\netcoreapp2.0\AngularAspNetCoreSignalR.pdb
